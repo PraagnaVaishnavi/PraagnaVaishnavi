@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Praagna L Vaishnavi! 👋
 
-<!--
-**PraagnaVaishnavi/PraagnaVaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Development Enthusiast | Problem Solver | Aspiring CS Professional**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Passionate about web development, problem-solving, and creating impactful projects.  
+- 🌱 Currently pursuing a Computer Science (CS) major in college.  
+- 💡 Participated in **Hackathon 3.0**, a 24-hour hackathon, developing innovative solutions.  
+- 💬 Always eager to collaborate on projects that contribute meaningfully to the world.  
+
+---
+
+## Skills  
+- **Web Development**: Proficient in React and JavaScript.  
+- **Problem Solving**: Skilled at designing solutions under pressure.  
+- **Collaboration**: Effective team player in dynamic environments.  
+
+---
+
+## 📫 Let's Connect!  
+- **Email**: [praagnavaishnavi@gmail.com](mailto:praagnavaishnavi@gmail.com)  
+- **LinkedIn**: [Praagna Vaishnavi](https://linkedin.com/in/praaagna-vaishnavi)  
+
+✨ Let's create something amazing together!  
