@@ -1,9 +1,9 @@
 # 💫 About Me:
-# Hi, I'm Praagna L Vaishnavi! 👋<br><br>**Web Development Enthusiast | Problem Solver | Aspiring CS Professional**<br><br>---<br><br>- 🔭 Passionate about web development, problem-solving, and creating impactful projects.  <br>- 🌱 Currently pursuing a Computer Science (CS) major in college.  <br>- 💡 Participated in **Hackathon 3.0**, a 24-hour hackathon, developing innovative solutions.  <br>- 💬 Always eager to collaborate on projects that contribute meaningfully to the world.  <br><br>---<br><br>## Skills  <br>- **Web Development**: Proficient in React and JavaScript.  <br>- **Problem Solving**: Skilled at designing solutions under pressure.  <br>- **Collaboration**: Effective team player in dynamic environments.  <br><br>---<br><br>## 📫 Let's Connect!  <br>- **Email**: [praagnavaishnavi@gmail.com](mailto:praagnavaishnavi@gmail.com)  <br>- **LinkedIn**: [Praagna Vaishnavi](https://linkedin.com/in/praaagna-vaishnavi)  <br><br>✨ Let's create something amazing together!  
+# Hi, I'm Praagna L Vaishnavi! 👋<br><br>**Web Development Enthusiast | Problem Solver | Aspiring CS Professional**<br><br>---<br><br>- 🔭 Passionate about web development, problem-solving, and creating impactful projects.  <br>- 🌱 Currently pursuing a Computer Science (CS) major in college.  <br>- 💡 Participated in **Hackathon 3.0**, a 24-hour hackathon, developing innovative solutions.  <br>- 💬 Always eager to collaborate on projects that contribute meaningfully to the world.  <br><br>---<br><br> Skills  <br>- **Web Development**: Proficient in React and JavaScript.  <br>- **Problem Solving**: Skilled at designing solutions under pressure.  <br>- **Collaboration**: Effective team player in dynamic environments.  <br><br>---<br><br> 📫 Let's Connect!  <br>- **Email**: [praagnavaishnavi@gmail.com](mailto:praagnavaishnavi@gmail.com)  <br>- **LinkedIn**: [Praagna Vaishnavi](https://linkedin.com/in/praaagna-vaishnavi)  <br><br>✨ Let's create something amazing together!  
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praagna-vaishnavi-9ba5a5258/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/praagna-vaishnavi-9ba5a5258)
 
 
 # 💻 Tech Stack:
